@@ -18,4 +18,5 @@ Inside the calculations folder are the files used for the report questions, if y
 
 # AI Use Disclosure
 
-No GenAI was used in this project, either in the code or in the report itself.
+GenAI was used to check multiple parts of the code for question 3, especially the data wrangling part, and no where else.
+
